@@ -1,0 +1,77 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.162 seconds
+desktop: 2560x1440 59Hz; virtual: 7040x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Tom\Documents\2D Infinite Platformer Runner\Builds\Build01_Data\Managed\System.dll (this message is harmless)
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: f1f8 -> priority: 1 
+  Thread -> id: e1a0 -> priority: 1 
+  Thread -> id: e918 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.261224 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.259370 ms (FindLiveObjects: 0.026544 ms CreateObjectMapping: 0.015990 ms MarkObjects: 0.210438 ms  DeleteObjects: 0.005436 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.409044 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.243059 ms (FindLiveObjects: 0.017589 ms CreateObjectMapping: 0.014071 ms MarkObjects: 0.205961 ms  DeleteObjects: 0.004477 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.390814 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.271843 ms (FindLiveObjects: 0.044134 ms CreateObjectMapping: 0.043814 ms MarkObjects: 0.179416 ms  DeleteObjects: 0.003837 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.159012 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 405.
+Total: 0.478124 ms (FindLiveObjects: 0.034220 ms CreateObjectMapping: 0.024625 ms MarkObjects: 0.280478 ms  DeleteObjects: 0.137520 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486439 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 0.332608 ms (FindLiveObjects: 0.033580 ms CreateObjectMapping: 0.024305 ms MarkObjects: 0.260010 ms  DeleteObjects: 0.013432 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.533196 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.966802 ms (FindLiveObjects: 0.050211 ms CreateObjectMapping: 0.065242 ms MarkObjects: 0.539209 ms  DeleteObjects: 0.310541 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538889 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 0.378341 ms (FindLiveObjects: 0.050530 ms CreateObjectMapping: 0.033900 ms MarkObjects: 0.281117 ms  DeleteObjects: 0.012152 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704553 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.448701 ms (FindLiveObjects: 0.026224 ms CreateObjectMapping: 0.023346 ms MarkObjects: 0.268005 ms  DeleteObjects: 0.130804 ms)
+
